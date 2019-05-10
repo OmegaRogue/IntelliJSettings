@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Git Kraken" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\OmegaRogue\AppData\Local\gitkraken\Update.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+  <tool name="Aseprite" description="Spriting Tool" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\SteamLibrary\steamapps\common\Aseprite\Aseprite.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/SteamLibrary/steamapps/common/Aseprite" />
+    </exec>
+  </tool>
+</toolSet>
