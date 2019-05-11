@@ -1,5 +1,5 @@
 <templateSet group="Java">
-  <template name="switch" value="switch ($CONDITION$):&#10;&#9;" toReformat="false" toShortenFQNames="true">
+  <template name="switch" value="switch ($CONDITION$):&#10;&#9;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="COMPLETION" value="false" />
