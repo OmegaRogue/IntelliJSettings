@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="uxf" type="Native" />
+      <mapping pattern="jsonThings.json" type="PLAIN_TEXT" />
       <removed_mapping ext="uxf" approved="true" type="UML" />
     </extensionMap>
   </component>
