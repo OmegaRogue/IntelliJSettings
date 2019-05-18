@@ -5,6 +5,7 @@
       <mapping ext="uxf" type="Native" />
       <mapping pattern="jsonThings.json" type="PLAIN_TEXT" />
       <mapping ext="lvl" type="PLAIN_TEXT" />
+      <mapping ext="lev" type="PLAIN_TEXT" />
       <removed_mapping ext="uxf" approved="true" type="UML" />
     </extensionMap>
   </component>
